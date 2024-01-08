@@ -21,5 +21,7 @@ Log 및 데이터 분석 도구
 - 분산시스템 (distributed system)
 - 높은 가용성 (High Availabilty)
 - Multi Tenancy
+- Scale out
+- Schema Free
 - Json Document & Restful API
 - 실시간 분석 (Near Real Time)
