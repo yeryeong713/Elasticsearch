@@ -3,7 +3,7 @@
 - **대량의 데이터**를 신속하게 거의 실시간(Near Real Time)으로 **저장, 검색, 분석** 할 수 있음
 - Elasticsearch는 검색을 위해 단독으로 사용되기도 하며 ELK Stack으로 사용되기도 함
 
-## ELK(Elasticsearch, Logstash, Kibana) Stack이란?
+## ELK Stack이란? (Elasticsearch, Logstash, Kibana)
 Log 및 데이터 분석 도구
 
  - **Logstash**   
